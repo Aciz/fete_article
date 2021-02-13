@@ -5,7 +5,7 @@
     - Unpack
     - In blender go to **Edit→References→Add-ons a**nd press the Install button,
     - **Find the file→Install Add-on** *(make sure it's checked in the list)*
-    - To confirm you should see it under **File -> Export: MD3 (+shader)**
+    - To confirm you should see it under **File→Export: MD3 (+shader)**
 4. Delete everything in Scene Collection \
 ![](1.png)
 5. Press **Add** button on top right or **Shift + A** and select **Text**
